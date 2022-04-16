@@ -1,7 +1,7 @@
 {
   "name": "unicrypt",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "An encryption algorithm that generates a unique encryption each time you call it, but it's reversable each time too.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
