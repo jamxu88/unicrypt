@@ -1,6 +1,6 @@
 {
   "name": "unicrypt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An encryption algorithm that generates a unique encryption each time you call it, but it's reversable each time too.",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,13 @@
   },
   "author": "",
   "license": "ISC",
+  "keywords": [
+    "encryption",
+    "unique",
+    "reversable",
+    "cryptography",
+    "unicrypt"
+  ],
   "bugs": {
     "url": "https://github.com/jamxu88/unicrypt/issues"
   },
